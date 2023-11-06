@@ -12,10 +12,12 @@ h1 {
   padding: 10px;
   margin: 10px;
   background-color: gold;
+  border-radius: 20px;
 }
 .assign img {
   width: 200px;
   padding: 10px;
+  border: 2px dashed midnightblue;
 }
 
 a {
@@ -23,7 +25,8 @@ a {
   color: midnightblue;
 }
 
-.assign img {
-  padding: 10px;
-  border: 2px dashed midnightblue;
+a:hover {
+  text-decoration: none;
+  color: salmon;
 }
+
