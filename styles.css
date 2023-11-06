@@ -18,4 +18,12 @@ h1 {
   padding: 10px;
 }
 
-  
+a {
+  text-decoration: none;
+  color: midnightblue;
+}
+
+.assign img {
+  padding: 10px;
+  border: 2px dashed midnightblue;
+}
