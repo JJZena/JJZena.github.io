@@ -1,8 +1,8 @@
 body {
   background: lightsteelblue;
   font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-  flex-wrap: wrap;
+  /*display: flex;
+  flex-wrap: wrap; */
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1:hover {
   text-align: center;
   width: 100%;
 }
-
+/*
 .assign {
   padding: 10px;
   margin: 10px;
@@ -37,7 +37,7 @@ h1:hover {
   margin: 10px;
   border: 2px dotted brown;
 }
-
+*/
 a {
   text-decoration: none;
   color: midnightblue;
