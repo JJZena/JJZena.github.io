@@ -27,13 +27,13 @@ h1:hover {
   display: block;
 }
 .assign img {
-  width: 200px;
+  width: 30%;
   padding: 10px;
   border: 2px dashed midnightblue;
 }
 
 .assign img:hover {
-  width: 200px;
+  width: 30%;
   margin: 10px;
   border: 2px dotted brown;
 }
