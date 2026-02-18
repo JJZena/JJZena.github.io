@@ -38,6 +38,19 @@ h1:hover {
   border: 2px dotted brown;
 }
 
+.projects img {
+  width: 200px;
+  padding: 10px;
+  border: 2px dashed midnightblue;
+}
+
+.projects img:hover {
+  width: 200px;
+  margin: 10px;
+  border: 2px dotted brown;
+}
+
+
 a {
   text-decoration: none;
   color: midnightblue;
