@@ -39,13 +39,13 @@ h1:hover {
 }
 
 .projects img {
-  width: 200px;
+  width: 20%;
   padding: 10px;
   border: 2px dashed midnightblue;
 }
 
 .projects img:hover {
-  width: 200px;
+  width: 20%;
   margin: 10px;
   border: 2px dotted brown;
 }
